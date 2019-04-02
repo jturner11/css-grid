@@ -1,0 +1,28 @@
+.block {
+    border: solid 1px white;
+    padding: 12px;
+}
+.display-head {
+    display: grid;
+    background-color: mediumpurple;
+    padding: 12px;
+}
+
+.display-inline-grid {
+    display: inline-grid;
+    background-color: mediumaquamarine;
+    padding: 12px;
+}
+
+.grid-template-rows {
+    grid-template-rows: 50px 100px;
+    background-color:mediumspringgreen;
+    padding: 12px;
+}
+
+.grid-template-columns {
+    display: inline-grid;
+    grid-template-columns: 200px 400px 700px;
+    background-color: mediumvioletred;
+    padding: 4px;
+}
